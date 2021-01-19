@@ -23,7 +23,7 @@ Para correr las pruebas debe tener en cuenta lo siguiente:
 ## Comenzando
 
 - Clonar el repositorio en su maquina local con el comando git clone y la url del repositorio: 
-  git clone https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_git/AW1075001_PWC_Test
+  git clone https://github.com/deisy0820/Reto_devco.git
 - Importar el proyecto en el IDE bajo la estructura de un proyecto gradle existente.
 - Una vez importado configurar la codificación a UFT-8 en el IDE
 
